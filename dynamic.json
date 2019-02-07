@@ -1,0 +1,77 @@
+{
+	"profile":{
+		"img":"images/Profile.jpg",
+		"name":"Peddireddy Sowmya",
+		"roll":"17A31B0531",
+		"institute":"Pragati Engineering College",
+		"place":"Kakinada"
+	},
+	"career":{
+		"obj":"Career Objective:",
+		"info":"To work in an environment where I can explore my skills and knowledge"
+	},
+	"education":[
+		{
+			"sno":"1",
+			"degree":"B.Tech",
+			"institute":"Pragati Engineering College",
+			"yop":"2021"
+		},
+		{
+			"sno":"2",
+			"degree":"Intermediate",
+			"institute":"Geetam Junior College",
+			"yop":"2017"
+		},
+		{
+			"sno":"3",
+			"degree":"Tenth",
+			"institute":"Geetam School",
+			"yop":"2015"
+		}
+
+	],
+	"languages":[
+		{
+			"lang":"English"
+		},
+		{
+			"lang":"Telugu"
+		}
+	],
+	"skills":[
+		{
+			"sk":"C"
+		},
+		{
+			"sk":"C++"
+		},
+		{
+			"sk":"Python"
+		},
+		{
+			"sk":"Advanced Data Structures"
+		}
+	],
+	"achievements":[
+		{
+			"ac":"Won second prize in elocution conducted in Pragati Engineering College"
+		},
+		{
+			"ac":"Merit Certificate in PCB workshop conducted in Pragati Engineering College"
+		},
+		{
+			"ac":"Completed Python online certification course in Internshala"
+		},
+		{
+			"ac":"Attended workshops on Machine Learning, AR and VR, Big Data Analytics, Robotics"
+		},
+		{
+			"ac":"Won second prize in carroms conducted in PEC on the occasion of National Sports Day"
+		}
+	],
+	"internships":
+		{
+			"in":"Attended internship at CDAC, Pune"
+		}
+}

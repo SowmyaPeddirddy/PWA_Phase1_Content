@@ -1,0 +1,119 @@
+body{
+	background: pink;
+}
+#main{
+	display: flex;
+	background: lightgreen;
+	margin:3%;
+	/*text-align: center;*/
+	justify-content: space-around;
+	box-shadow: 2px 2px 2px 2px;
+	border-radius: 2%;
+}
+.leftdiv{
+	background: aqua;
+	margin:4%;
+	/*margin-left:-30%;*/
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 2px 2px 2px 2px;
+	width:25%;
+	height:65%;
+	/*position: fixed;*/
+}
+.rightdiv{
+	background: bisque;
+	border-radius: 5%;
+	width:50%;
+	padding: 3%;
+	box-shadow: 2px 2px 2px 2px;
+	/*margin-left:35%;*/
+}
+img{
+	width:60%;
+	height:38%;
+	margin:3%;
+	border-radius: 3%;
+}
+/*mobile view*/
+@media screen and (max-width:480px ) {
+body{
+	background: steelblue;
+}
+#main{
+	display: inline-block;
+	background: darkseagreen;
+	margin:1%;
+	/*text-align: center;*/
+	justify-content: space-around;
+	box-shadow: 2px 2px 2px 2px;
+	border-radius: 2%;
+}
+.leftdiv{
+	background: skyblue;
+	margin:2%;
+	/*margin-left:-30%;*/
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 2px 2px 2px 2px;
+	width:95%;
+	height:40%;
+}
+.rightdiv{
+	background: mistyrose;
+	margin:2%;
+	border-radius: 5%;
+	/*text-align: center;*/
+	width:92%;
+	padding: 2%;
+	box-shadow: 2px 2px 2px 2px;
+}
+}
+
+/*Tab View*/
+@media screen and (min-width:481px) and (max-width:580px) {
+body{
+	background:cadetblue;
+}
+#main{
+	display: inline-block;
+	background: lightcyan;
+	margin:2%;
+	/*text-align: center;*/
+	justify-content: space-around;
+	border-radius: 2%;
+}
+.leftdiv{
+	background:cornflowerblue ;
+	margin:3%;
+	/*margin-left:-30%;*/
+	border-radius: 5%;
+	text-align: center;
+	box-shadow: 1px 1px 1px 1px;
+	width:92%;
+	height:40%;
+}
+.rightdiv{
+	background: lightpink;
+	margin:3%;
+	border-radius: 5%;
+	/*text-align: center;*/
+	width:90%;
+	padding: 2%;
+	box-shadow: 1px 1px 1px 1px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
